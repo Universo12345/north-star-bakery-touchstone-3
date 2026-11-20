@@ -1,0 +1,1 @@
+Touchstone 3 North Star Bakery website. Upload these four HTML files, styles.css, and the original bakery media files into a public GitHub repository. Media are NOT included because the original bakery ZIP was not uploaded. Confirm filenames and paths. GitHub Pages preview can be enabled in Settings > Pages. The contact form is a demonstration only and does not submit orders.
